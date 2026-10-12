@@ -1,0 +1,38 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "samyak",
+            "date": "2026-10-29",
+            "location": "vijayawada",
+            "budget": 50000.0
+        },
+        {
+            "id": 2,
+            "name": "samyak",
+            "date": "2026-10-29",
+            "location": "vijaywada",
+            "budget": 60000.0
+        }
+    ],
+    "guests": [
+        {
+            "id": 1,
+            "event_id": 1,
+            "name": "thor",
+            "contact": "phone",
+            "status": "Invited"
+        }
+    ],
+    "tasks": [],
+    "vendors": [],
+    "categories": [
+        "Food",
+        "Decoration",
+        "Venue",
+        "Transport",
+        "Photography",
+        "Other"
+    ],
+    "expenses": []
+}
